@@ -3,7 +3,7 @@
 
 ![abc](https://user-images.githubusercontent.com/61991247/109983632-ecb6c000-7cfa-11eb-86ba-73eb18b4a0d7.png)
 # Index
-```
+```bash
 
 . 1. State and atributions; Control strucures; Iterative programs
 . 2. Numerical algorithms using integer numbers
